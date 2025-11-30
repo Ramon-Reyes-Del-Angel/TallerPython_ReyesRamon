@@ -1,0 +1,13 @@
+# Carpetas de Python
+__pycache__/
+*.pyc
+
+# Carpetas automáticas de Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+env/
+venv/
+
+# Archivos de sistema
+.DS_Store
