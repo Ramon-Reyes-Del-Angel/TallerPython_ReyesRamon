@@ -1,7 +1,5 @@
 # TallerPython_ReyesRamon
 
-# Proyecto de Ejemplos de Python
-
 ## Descripción
 Este proyecto contiene una serie de programas en Python que muestran ejemplos prácticos de distintos conceptos fundamentales del lenguaje. Incluye:
 
